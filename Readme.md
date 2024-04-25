@@ -4,17 +4,18 @@ en el reconocimento de sonidos se han considerado muchas estrategias y tecnicas 
 
 
 
-![image](https://github.com/yesicamilagros/aplicativo-de-predicci-n-de-sonidos/assets/102852467/fc650a41-4d5f-4c3d-a990-9baf98a18c9f)
+veideo de deostracion :
 
 
 
 
-![image](https://github.com/yesicamilagros/aplicativo-de-predicci-n-de-sonidos/assets/102852467/f4eace7e-087f-4157-b456-481ab8f7553c)
+https://github.com/yesicamilagros/aplicativo-de-predicci-n-de-sonidos/assets/102852467/85ece2ee-851f-4365-a297-288301eb3c76
 
 
 
 
-![image](https://github.com/yesicamilagros/aplicativo-de-predicci-n-de-sonidos/assets/102852467/8670fa7e-5081-4a2f-99e3-707939c7b729)
+
+
 
 
 

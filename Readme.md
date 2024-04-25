@@ -6,7 +6,7 @@ en el reconocimento de sonidos se han considerado muchas estrategias y tecnicas 
 
 video de demostracion :
 
-[![Alt text](https://img.youtube.com/vi/3RFAX3CbSGA/0.jpg)]([https://www.youtube.com/watch?v=3RFAX3CbSGA](https://github.com/yesicamilagros/aplicativo-de-predicci-n-de-sonidos/blob/master/WhatsApp%20Video%202024-04-25%20at%2010.56.27%20AM.mp4))
+[![Alt text](https://img.youtube.com/vi/3RFAX3CbSGA/0.jpg)]([[https://www.youtube.com/watch?v=3RFAX3CbSGA](https://github.com/yesicamilagros/aplicativo-de-predicci-n-de-sonidos/blob/master/WhatsApp%20Video%202024-04-25%20at%2010.56.27%20AM.mp4)](https://github.com/yesicamilagros/aplicativo-de-predicci-n-de-sonidos/blob/master/WhatsApp%20Video%202024-04-25%20at%2010.56.27%20AM.mp4))
 
 
 https://github.com/yesicamilagros/aplicativo-de-predicci-n-de-sonidos/blob/master/WhatsApp%20Video%202024-04-25%20at%2010.56.27%20AM.mp4

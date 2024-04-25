@@ -13,7 +13,6 @@ https://github.com/yesicamilagros/aplicativo-de-predicci-n-de-sonidos/assets/102
 
 
 
-https://github.com/yesicamilagros/aplicativo-de-predicci-n-de-sonidos/assets/102852467/3d5ecaeb-a236-44bb-acdb-7fca80bfb9f3
 
 
 

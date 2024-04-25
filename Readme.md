@@ -9,8 +9,11 @@ veideo de deostracion :
 
 
 
-https://github.com/yesicamilagros/aplicativo-de-predicci-n-de-sonidos/assets/102852467/85ece2ee-851f-4365-a297-288301eb3c76
 
+
+
+
+https://github.com/yesicamilagros/aplicativo-de-predicci-n-de-sonidos/assets/102852467/40ca85f0-0dc4-4012-bac9-8c1d389630b6
 
 
 

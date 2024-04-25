@@ -4,7 +4,7 @@ en el reconocimento de sonidos se han considerado muchas estrategias y tecnicas 
 
 
 
-veideo de deostracion :
+video de demostracion :
 
 
 

@@ -8,6 +8,10 @@ video de demostracion :
 
 
 
+![WhatsApp-Video-2024-04-25-at-10 56 27-AM](https://github.com/yesicamilagros/aplicativo-de-predicci-n-de-sonidos/assets/102852467/3ac65d00-af87-4f4b-8929-47563a2b4530)
+
+
+
 
 https://github.com/yesicamilagros/aplicativo-de-predicci-n-de-sonidos/assets/102852467/6787f789-555d-4339-b271-10251c80a2cd
 

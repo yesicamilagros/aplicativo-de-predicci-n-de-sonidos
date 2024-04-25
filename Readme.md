@@ -10,9 +10,8 @@ veideo de deostracion :
 
 
 
+![WhatsApp-Video-2024-04-25-at-10 56 27-AM](https://github.com/yesicamilagros/aplicativo-de-predicci-n-de-sonidos/assets/102852467/74ff85a7-521b-4f60-a806-b0a336f0599e)
 
-
-<video src='https://github.com/yesicamilagros/aplicativo-de-predicci-n-de-sonidos/assets/102852467/40ca85f0-0dc4-4012-bac9-8c1d389630b6' width=180/>
 
 
 

@@ -7,9 +7,15 @@ en el reconocimento de sonidos se han considerado muchas estrategias y tecnicas 
 video de demostracion :
 
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/yesicamilagros/aplicativo-de-predicci-n-de-sonidos/blob/master/WhatsApp%20Video%202024-04-25%20at%2010.56.27%20AM.mp4" type="video/mp4">
-</video>
+
+
+https://github.com/yesicamilagros/aplicativo-de-predicci-n-de-sonidos/assets/102852467/6787f789-555d-4339-b271-10251c80a2cd
+
+
+
+https://github.com/yesicamilagros/aplicativo-de-predicci-n-de-sonidos/assets/102852467/3d5ecaeb-a236-44bb-acdb-7fca80bfb9f3
+
+
 
 
 https://github.com/yesicamilagros/aplicativo-de-predicci-n-de-sonidos/blob/master/WhatsApp%20Video%202024-04-25%20at%2010.56.27%20AM.mp4

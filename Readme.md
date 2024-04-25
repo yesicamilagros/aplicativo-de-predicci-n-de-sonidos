@@ -12,8 +12,8 @@ veideo de deostracion :
 
 
 
+<video src='https://github.com/yesicamilagros/aplicativo-de-predicci-n-de-sonidos/assets/102852467/40ca85f0-0dc4-4012-bac9-8c1d389630b6' width=180/>
 
-https://github.com/yesicamilagros/aplicativo-de-predicci-n-de-sonidos/assets/102852467/40ca85f0-0dc4-4012-bac9-8c1d389630b6
 
 
 

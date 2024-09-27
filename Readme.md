@@ -24,7 +24,7 @@ https://github.com/yesicamilagros/aplicativo-de-predicci-n-de-sonidos/assets/102
 https://github.com/yesicamilagros/aplicativo-de-predicci-n-de-sonidos/blob/master/WhatsApp%20Video%202024-04-25%20at%2010.56.27%20AM.mp4
 
 
-#descargar aplicativo (version android)
+### descargar aplicativo (version android)
 
 link : https://drive.google.com/file/d/1mtEBJ6JyhRBd8RkHCezqzokN3bbClhqQ/view?usp=drive_link
 

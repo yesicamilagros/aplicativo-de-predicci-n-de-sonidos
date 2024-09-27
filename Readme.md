@@ -13,15 +13,6 @@ video de demostracion :
 
 
 
-https://github.com/yesicamilagros/aplicativo-de-predicci-n-de-sonidos/assets/102852467/6787f789-555d-4339-b271-10251c80a2cd
-
-
-
-
-
-
-
-https://github.com/yesicamilagros/aplicativo-de-predicci-n-de-sonidos/blob/master/WhatsApp%20Video%202024-04-25%20at%2010.56.27%20AM.mp4
 
 
 ### descargar aplicativo (version android)

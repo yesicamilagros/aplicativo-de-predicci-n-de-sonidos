@@ -13,6 +13,10 @@ video de demostracion :
 
 
 
+https://github.com/user-attachments/assets/727a8daa-27d2-4316-8ba6-79ac3781b8fe
+
+
+
 
 
 ### descargar aplicativo (version android)
